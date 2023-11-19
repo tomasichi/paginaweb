@@ -16,4 +16,4 @@ Y otros más.
 Así como también se utilizaron elementos css para dar forma, modificar y moldear los elementos html usados antreriormente.  
 
 ## Link a demo
-En el siguiente link se puede visualizar e interactuar con el proyecto terminado: 
+En el siguiente link se puede visualizar e interactuar con el proyecto terminado:
