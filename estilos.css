@@ -1,0 +1,78 @@
+body
+{
+    background-color: #543041;
+    color: #de8c9f;
+    font-family: 'Khand', sans-serif;
+}
+
+/*Asi se pone un comentario*/
+
+h1 {
+    color: #efa1e1;
+    text-align: center;
+}
+
+h3{
+    color: #b064a2;
+    text-align: center;
+    font-size: 25px;
+}
+
+h2{ 
+    color: #a7657c;
+}
+
+p{
+    color: #e5b5c6;
+}
+
+.img1 {
+    width: 300px;
+    height: 330px;
+    border-style: double;
+    border-width: 5px; 
+    border-color: #cf9fb8;
+    margin-left: 15px;
+    margin-bottom: 30px;
+    padding: 5px;
+    
+}
+
+.img2 {
+    width: 300px;
+    height: 300px;
+    border-style: dashed;
+    border-width: 5px;
+    border-color: #cf9fb8;
+    margin-left: 20px;
+    padding: 5px;
+    margin-bottom: 50px;
+}
+
+.img3 {
+    margin-left: 20px;
+    border-style: solid;
+    padding: 5px;
+    border-color: #cf9fb8;
+    width: 300px;
+    height: 300px;
+    margin-bottom: 45px;
+}
+
+.img4 {
+    width: 300px;
+    margin-left: 20px;
+    border-style: dotted;
+    padding: 5px;
+    border-width: 5px;
+    border-color: #cf9fb8;
+    margin-bottom: 45px;
+}
+
+small{
+    background-color: #734356;
+}
+
+a{
+    color: rgb(46, 18, 72);
+}
